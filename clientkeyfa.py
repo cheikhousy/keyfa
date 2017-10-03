@@ -7,4 +7,4 @@ class Clientkeyfa(models.Model):
 
     name = fields.Char(string="Nom", required=False, )
 
-    is_new_field = fields.Boolean(string="test",  )
+
